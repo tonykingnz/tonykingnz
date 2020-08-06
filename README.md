@@ -1,4 +1,3 @@
-[![tonyKingNZ stats](https://github-readme-stats.vercel.app/api?username=tonykingnz&show_icons=true?count_private=true)](https://github.com/tonykingnz/github-readme-stats)
+<img align="left" alt="tonyKingNZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonykingnz&count_private=true&show_icons=true&hide_border=true" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonykingnz&layout=compact)](https://github.com/tonykingnz/github-readme-stats)
-
+<img align="rigth" alt="tonyKingNZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykingnz&layout=compact&hide_border=true?show_icons=true" />
